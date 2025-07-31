@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**samanwayaghosh/samanwayaghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I’m a Data Science Engineer & Data Analyst with a passion for building scalable, data-driven solutions.
 
-Here are some ideas to get you started:
+🔍 I specialize in:
+- Statistical Modeling, Machine Learning, and Generative AI
+- End-to-end Data Pipelines using Python, SQL, and Spark
+- Exploratory Data Analysis, Dashboarding, and BI Reporting
+- MLOps & deploying production-ready AI systems in cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I love turning raw data into actionable insights that drive business impact.
+
+🛠️ Tools I frequently use: Python, Pandas, Scikit-learn, LangChain, SQL, Power BI, FastAPI, Docker, Git, and more.
+
+🚀 Currently working on:
+- Intelligent automation projects using LLMs
+- Agentic AI systems for document verification, travel planning, and portfolio analysis
+- Clean, modular, production-ready AI applications
+
+💡 Always learning. Always building.
